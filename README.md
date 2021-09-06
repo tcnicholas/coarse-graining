@@ -1,2 +1,2 @@
 # coarse-graining
-Signposting the new location of the code CHIC.
+Please find the code *CHIC* at https://github.com/tcnicholas/chic.
